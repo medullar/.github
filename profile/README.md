@@ -2,6 +2,8 @@
 
 find more about Medullar at our website: [https://medullar.com](https://medullar.com)
 
+![Medullar Inc.](https://github.com/medullar/.github/blob/development/profile/medullar-logo-color.png)
+
 <!--
 
 **Here are some ideas to get you started:**
